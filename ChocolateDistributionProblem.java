@@ -46,4 +46,4 @@ class GfG
         }
         return min;
     }
-}
+}   
